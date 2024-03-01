@@ -14,3 +14,5 @@ git sosit (:
 
 >[!CAUTION]
 > Be nice!
+
+<!-- This content will not appear in the rendered Markdown, haha -->
