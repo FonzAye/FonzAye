@@ -11,3 +11,6 @@ git add
 git commit
 git sosit (:
 ```
+
+>[!CAUTION]
+> Be nice!
