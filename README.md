@@ -16,3 +16,7 @@ git sosit (:
 > Be nice!
 
 <!-- This content will not appear in the rendered Markdown, haha -->
+
+| Command        | Description                          |
+| ---------      |  -------------------------------     |
+| 'git-status'   | List all new or modified files       |
