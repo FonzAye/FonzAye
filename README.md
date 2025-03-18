@@ -26,7 +26,7 @@ $ cat skills.json | jq .
 
 ## 🌱 Currently Learning
 
-- Basic AWS services (Step Functions, AppSync, EventBridge)
+- Basic AWS services
 - Strengthening Bash scripting for more elegant automation
 - CI/CD best practices
 - Cost optimization strategies for cloud infrastructure
