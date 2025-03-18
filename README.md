@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Fonz
 
 > *"Infrastructure as code? More like infrastructure as poetry – except my YAML doesn't rhyme."*
 
@@ -14,55 +14,33 @@ $ cat skills.json | jq .
 
 ```json
 {
-  "Cloud": ["AWS", "Azure", "GCP"],
-  "IaC": ["Terraform", "CloudFormation", "Pulumi"],
-  "Configuration": ["Ansible", "Chef", "Puppet"],
+  "Cloud": ["AWS"],
+  "IaC": ["Terraform"],
   "Containers": ["Docker", "Kubernetes", "Helm"],
-  "CI/CD": ["Jenkins", "GitHub Actions", "GitLab CI", "ArgoCD"],
-  "Monitoring": ["Prometheus", "Grafana", "ELK Stack"],
-  "Scripting": ["Bash", "Python", "Go"],
+  "CI/CD": ["Jenkins"],
+  "Monitoring": ["Prometheus", "Grafana"],
+  "Scripting": ["Bash", "Python"],
   "Networking": ["VPC", "Subnets", "Security Groups", "Load Balancing"]
 }
 ```
 
 ## 🌱 Currently Learning
 
-- Advanced AWS services (Step Functions, AppSync, EventBridge)
+- Basic AWS services (Step Functions, AppSync, EventBridge)
 - Strengthening Bash scripting for more elegant automation
-- CI/CD best practices for monorepo architectures
+- CI/CD best practices
 - Cost optimization strategies for cloud infrastructure
-- GitOps workflows with Flux and ArgoCD
-
+  
 ## 💻 Projects & Contributions
 
-- **[Infrastructure Modules](https://github.com/yourusername/terraform-modules)**: Reusable Terraform modules for common AWS patterns
-- **[K8s Toolkit](https://github.com/yourusername/k8s-toolkit)**: Collection of Kubernetes helpers and custom operators
-- **[CI Pipeline Templates](https://github.com/yourusername/ci-templates)**: Standardized CI/CD pipeline templates for different project types
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How I Reduced Our AWS Bill by 40% Without Breaking Production](https://dev.to/)
-- [The Joy of Zero-Downtime Deployments](https://dev.to/)
-- [Kubernetes: Friend or Foe? A Love-Hate Story](https://dev.to/)
-<!-- BLOG-POST-LIST:END -->
-
-## 🏆 Achievements
-
-- AWS Certified DevOps Engineer - Professional
-- Certified Kubernetes Administrator (CKA)
-- Reduced deployment time from 2 hours to 7 minutes
-- Implemented infrastructure that scales from 0 to 100k users without human intervention
-
-## ⚡ Fun Fact
-
-I once debugged a production issue while hiking up a mountain. My laptop battery died just as I committed the fix, and I had to sprint down to civilization before the servers caught fire. They didn't, but my legs were on fire instead. Worth it. Now I always carry a power bank... and snacks.
+- **[Terraform configurations for AWS](https://github.com/FonzAye/Terraform_AWS.git)**: Reusable Terraform modules for common AWS patterns
+- **[K8s Monitoring stack](https://github.com/FonzAye/Kubernetes.git)**: Example of monitoring with K8s
+- **[CI Pipeline Templates](https://github.com/FonzAye/python-ci-cd-demo.git)**: CI/CD Pipeline with Jenkins, Git, and Docker
+- **[Personal-Expense-Tracker](https://github.com/FonzAye/Personal-Expense-Tracker.git)**: An example web app with Database, Front- and Backend server on AWS provisioned with Terraform
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/george-basov-03598a161)
 
 ---
 
